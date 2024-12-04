@@ -1,0 +1,30 @@
+DATASET_STYLE
+SEPARATOR TAB
+DATASET_LABEL	Country
+LEGEND_TITLE	Country where most present
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#523039	#0bc0be	#669bdf	#c1fe9a	#a07117	#fe352c	#a607c5	#26bd48	#615e9f	#f43cc2	#0747ca	#cec5e3	#ccb728	#5cfea2	#004822	#5cfa4a	#950866
+LEGEND_LABELS	South Africa	Cameroon	Nigeria	Gambia	Kenya	Gabon	Ethiopia	Mali	Uganda	Libya	Egypt	Ghana	Tunisia	Benin	Zimbabwe	Sierra Leone	Djibouti
+LEGEND_SHAPE_SCALES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+
+DATA
+OP581764.1	label	node	#000000	1	normal	#669bdf
+MT890229.1	label	node	#000000	1	normal	#cec5e3
+MT872500.1	label	node	#000000	1	normal	#5cfa4a
+OQ050878.1	label	node	#000000	1	normal	#669bdf
+OQ050877.1	label	node	#000000	1	normal	#669bdf
+OL601929.1	label	node	#000000	1	normal	#26bd48
+OL548948.1	label	node	#000000	1	normal	#a07117
+OL548959.1	label	node	#000000	1	normal	#a07117
+OL914963.1	label	node	#000000	1	normal	#a07117
+OP581627.1	label	node	#000000	1	normal	#c1fe9a
+MW504609.1	label	node	#000000	1	normal	#0747ca
+OQ521495.1	label	node	#000000	1	normal	#0bc0be
+OQ051139.1	label	node	#000000	1	normal	#669bdf
+OM635146.1	label	node	#000000	1	normal	#950866
+OL351388.1	label	node	#000000	1	normal	#0747ca
+OP522557.1	label	node	#000000	1	normal	#523039
+OL601905.1	label	node	#000000	1	normal	#669bdf
+OQ051616.1	label	node	#000000	1	normal	#669bdf
+OQ521457.1	label	node	#000000	1	normal	#0bc0be
+OQ051350.1	label	node	#000000	1	normal	#0747ca

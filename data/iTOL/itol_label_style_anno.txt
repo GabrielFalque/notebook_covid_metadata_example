@@ -1,0 +1,9 @@
+MULTI_STYLE
+SEPARATOR COMMA
+LABEL_SEPARATOR,|
+
+DATA
+1,bold,normal,#000000,1,0,0,default
+2,italic,normal,#000000,1,0,0,default
+3,normal,normal,#000000,1,0,0,default
+4,normal,normal,#000000,1,0,0,default
